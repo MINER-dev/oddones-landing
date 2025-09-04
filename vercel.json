@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/chatbox", "destination": "/chatbox/index.html" }
+  ]
+}
